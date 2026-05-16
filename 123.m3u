@@ -1,0 +1,173 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视频道",CCTV1
+rtp://225.1.2.47:10276
+#EXTINF:-1 group-title="央视频道",CCTV2
+rtp://225.1.2.78:10462
+#EXTINF:-1 group-title="央视频道",CCTV3
+rtp://225.1.2.141:10864
+#EXTINF:-1 group-title="央视频道",CCTV3
+rtp://225.1.2.160:10978
+#EXTINF:-1 group-title="央视频道",CCTV4
+rtp://225.1.2.197:11806
+#EXTINF:-1 group-title="央视频道",CCTV4
+rtp://225.1.2.245:11932
+#EXTINF:-1 group-title="央视频道",CCTV5
+rtp://225.1.2.153:10936
+#EXTINF:-1 group-title="央视频道",CCTV5
+rtp://225.1.2.142:10870
+#EXTINF:-1 group-title="央视频道",CCTV5
+rtp://225.1.2.198:11392
+#EXTINF:-1 group-title="央视频道",CCTV5+
+rtp://225.1.2.48:10282
+#EXTINF:-1 group-title="央视频道",CCTV6
+rtp://225.1.2.143:10876
+#EXTINF:-1 group-title="央视频道",CCTV7
+rtp://225.1.2.79:10468
+#EXTINF:-1 group-title="央视频道",CCTV8
+rtp://225.1.2.144:10882
+#EXTINF:-1 group-title="央视频道",CCTV9
+rtp://225.1.2.80:10474
+#EXTINF:-1 group-title="央视频道",CCTV10
+rtp://225.1.2.81:10480
+#EXTINF:-1 group-title="央视频道",CCTV10
+rtp://225.1.2.170:11038
+#EXTINF:-1 group-title="央视频道",CCTV11
+rtp://225.1.2.220:11434
+#EXTINF:-1 group-title="央视频道",CCTV12
+rtp://225.1.2.82:10486
+#EXTINF:-1 group-title="央视频道",CCTV13
+rtp://225.1.2.74:11584
+#EXTINF:-1 group-title="央视频道",CCTV14
+rtp://225.1.2.83:10492
+#EXTINF:-1 group-title="央视频道",CCTV15
+rtp://225.1.2.221:11440
+#EXTINF:-1 group-title="央视频道",CETV1
+rtp://225.1.2.94:10558
+#EXTINF:-1 group-title="央视频道",CETV2
+rtp://225.1.2.149:10912
+#EXTINF:-1 group-title="央视频道",CETV4
+rtp://225.1.2.95:10564
+
+#EXTINF:-1 group-title="卫视频道",广东卫视
+rtp://225.1.2.151:10924
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+rtp://225.1.2.85:10504
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+rtp://225.1.2.50:10294
+#EXTINF:-1 group-title="卫视频道",北京卫视（4K）
+rtp://225.1.2.239:11330
+#EXTINF:-1 group-title="卫视频道",北京卫视
+rtp://225.1.2.49:10288
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+rtp://225.1.2.90:10534
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+rtp://225.1.2.92:10546
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+rtp://225.1.2.88:10522
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+rtp://225.1.2.75:11590
+#EXTINF:-1 group-title="卫视频道",东方卫视
+rtp://225.1.2.86:10510
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+rtp://225.1.2.44:10258
+#EXTINF:-1 group-title="卫视频道",广西卫视
+rtp://225.1.2.34:10198
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+rtp://225.1.2.109:11632
+#EXTINF:-1 group-title="卫视频道",海南卫视
+rtp://225.1.2.107:11620
+#EXTINF:-1 group-title="卫视频道",河北卫视
+rtp://225.1.2.106:11614
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+rtp://225.1.2.84:10498
+#EXTINF:-1 group-title="卫视频道",江西卫视
+rtp://225.1.2.77:11602
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+rtp://225.1.2.152:10930
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+rtp://225.1.2.38:10222
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+rtp://225.1.2.41:10240
+#EXTINF:-1 group-title="卫视频道",青海卫视
+rtp://225.1.2.39:10228
+#EXTINF:-1 group-title="卫视频道",山东卫视
+rtp://225.1.2.89:10528
+#EXTINF:-1 group-title="卫视频道",山东教育卫视
+rtp://225.1.2.150:10918
+#EXTINF:-1 group-title="卫视频道",山西卫视
+rtp://225.1.2.37:10216
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+rtp://225.1.2.36:10210
+#EXTINF:-1 group-title="卫视频道",四川卫视
+rtp://225.1.2.108:11626
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+rtp://225.1.2.91:10540
+#EXTINF:-1 group-title="卫视频道",天津卫视
+rtp://225.1.2.87:10516
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+rtp://225.1.2.42:10246
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+rtp://225.1.2.43:10252
+#EXTINF:-1 group-title="卫视频道",兵团卫视
+rtp://225.1.2.98:10582
+#EXTINF:-1 group-title="卫视频道",云南卫视
+rtp://225.1.2.76:11596
+#EXTINF:-1 group-title="卫视频道",河南卫视
+rtp://225.1.2.99:10588
+
+#EXTINF:-1 group-title="地方频道",风云足球
+rtp://225.1.2.198:11392
+#EXTINF:-1 group-title="地方频道",戏曲
+rtp://225.1.2.100:10594
+#EXTINF:-1 group-title="地方频道",收藏天下
+rtp://225.1.2.101:10600
+#EXTINF:-1 group-title="地方频道",中华功夫
+rtp://225.1.2.102:10606
+#EXTINF:-1 group-title="地方频道",乡村频道
+rtp://225.1.2.104:10618
+#EXTINF:-1 group-title="地方频道",导视
+rtp://225.1.2.241:11908
+#EXTINF:-1 group-title="地方频道",健康河南
+rtp://225.1.2.242:11914
+#EXTINF:-1 group-title="地方频道",乐游
+rtp://225.1.2.199:11752
+#EXTINF:-1 group-title="地方频道",新乡综合
+rtp://225.1.2.122:10750
+#EXTINF:-1 group-title="地方频道",新乡公共
+rtp://225.1.2.123:10756
+#EXTINF:-1 group-title="地方频道",河南移动电视
+rtp://225.1.2.190:11866
+#EXTINF:-1 group-title="地方频道",嘉佳卡通
+rtp://225.1.2.93:10552
+#EXTINF:-1 group-title="地方频道",金鹰纪实
+rtp://225.1.2.97:10576
+#EXTINF:-1 group-title="地方频道",金鹰卡通
+rtp://225.1.2.46:10270
+#EXTINF:-1 group-title="地方频道",BRTVKUKU少儿
+rtp://225.1.2.45:10264
+#EXTINF:-1 group-title="地方频道",游戏风云
+rtp://225.1.2.200:11758
+#EXTINF:-1 group-title="地方频道",金色学堂
+rtp://225.1.2.201:11764
+#EXTINF:-1 group-title="地方频道",国学频道
+rtp://225.1.2.129:11674
+#EXTINF:-1 group-title="地方频道",华数TV
+rtp://225.1.2.155:10948
+#EXTINF:-1 group-title="地方频道",华数电影
+rtp://225.1.2.167:11020
+#EXTINF:-1 group-title="地方频道",华数电影
+rtp://225.1.2.168:11026
+#EXTINF:-1 group-title="地方频道",华数电影
+rtp://225.1.2.172:11050
+#EXTINF:-1 group-title="地方频道",华数电影
+rtp://225.1.2.173:11056
+#EXTINF:-1 group-title="地方频道",老故事
+rtp://225.1.2.163:10996
+#EXTINF:-1 group-title="地方频道",电影频道
+rtp://225.1.2.145:10888
+#EXTINF:-1 group-title="地方频道",CHC影迷电影
+rtp://225.1.2.210:11398
+#EXTINF:-1 group-title="地方频道",CHC家庭影院
+rtp://225.1.2.214:11422
+#EXTINF:-1 group-title="地方频道",CHC动作电影
+rtp://225.1.2.215:11428
